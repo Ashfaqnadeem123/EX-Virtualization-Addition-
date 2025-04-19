@@ -1,7 +1,7 @@
 # EX 2 -Virtualization
 
-## REGNO: 212224240003
-## NAME:  ABISHEK S
+## REGNO: 212224230166
+## NAME:  MOHAMMED ASHFAQ NADEEM A
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
